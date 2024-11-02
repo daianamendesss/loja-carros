@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: left;
+    margin: 50px;
+    background-color: #ffffff; /* Define a cor de fundo como preto (#111 é uma representação hexadecimal para a cor preta) */
+}
+
+h1 {
+    color: #fff; /* Define a cor do texto como branco */
+}
+
+h2 {
+    color: #b2b2b2;
+}
+
+.amarelo{
+    color: #febe01;
+}
+
+.preto{
+    color: #000000;
+    text-align: center;
+}
+
+.container{
+    text-align: center;
+}
+.caixa-preta {
+    background-color: #111; /* Cor de fundo preta */
+    padding: 30px; /* Espaçamento interno */
+    border-radius: 5px; /* Borda arredondada */
+    color: #fff; /* Cor do texto branco */
+    max-width: 500px; /* Define a largura máxima da caixa preta */
+    margin: 0 auto 20px;
+}
+
+button.proposta {
+    background-color: #febe01;
+    color: #332200;
+    border: none;
+    padding: 10px 15px;
+    font-size: 16px;
+    border-radius: 4px;
+    font-weight: bold;
+}
